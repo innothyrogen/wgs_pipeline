@@ -1,0 +1,18 @@
+# reference
+fasta: "/lustre/imgge/lab01/refs/hg38_GIAB.fasta"
+fasta_fai: "/lustre/imgge/lab01/refs/hg38_GIAB.fasta.fai"
+dict: "/lustre/imgge/lab01/refs/hg38_GIAB.dict"
+bwa: "/lustre/imgge/lab01/refs/"
+dbsnp: "/lustre/imgge/db/hg38.dbsnp155.vcf.gz"
+dbsnp_tbi: "/lustre/imgge/db/hg38.dbsnp155.vcf.gz.tbi"
+
+# resources
+split_fastq: 70000000
+length_required: 31
+#interval_file: "~/sarek/.bed"
+
+# Tools
+tools: "haplotypecaller,deepvariant"
+skip_tools: "markduplicates,baserecalibrator"
+#use_gatk_spark: "markduplicates"
+#joint_germline: true

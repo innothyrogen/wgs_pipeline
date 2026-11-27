@@ -1,0 +1,2 @@
+patient,sample,lane,fastq_1,fastq_2
+HG001,HG001_chr21,LANE1,/lustre/data/innothyrogen/fastq/HG001_MGI_chr21_R1.fastq.gz,/lustre/data/innothyrogen/fastq/HG001_MGI_chr21_R2.fastq.gz

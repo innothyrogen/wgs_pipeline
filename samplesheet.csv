@@ -1,0 +1,2 @@
+patient,sample,lane,fastq_1,fastq_2
+HG001,HG001,LANE1,/lustre/data/innothyrogen/fastq/MGISEQ2000_PCR-free_NA12878_1_V100003043_L01_1.fq.gz,/lustre/data/innothyrogen/fastq/MGISEQ2000_PCR-free_NA12878_1_V100003043_L01_2.fq.gz
